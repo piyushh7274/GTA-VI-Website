@@ -14,7 +14,7 @@ A simple React-based website showcasing Grand Theft Auto VI (GTA VI) with a clea
 ## Technologies Used
 
 - React.js
-- CSS3
+- CSS3, tailwindcss
 - Vercel (for deployment)
 
 ## Live Demo
