@@ -27,6 +27,8 @@ A simple React-based website showcasing Grand Theft Auto VI (GTA VI) with a clea
    ```bash
    git clone https://github.com/piyushh7274/GTA-VI-Website.git
 2. Install dependencies:
+   ```bash
    npm install
 3.Run the development server:
+   ```bash
    npm run dev
