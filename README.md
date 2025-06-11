@@ -30,5 +30,5 @@ A simple React-based website showcasing Grand Theft Auto VI (GTA VI) with a clea
    ```bash
    npm install
 3.Run the development server:
-   ```bash
+  ```bash
    npm run dev
